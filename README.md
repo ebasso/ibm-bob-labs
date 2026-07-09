@@ -13,6 +13,26 @@ Hands-on labs, experiments, and real-world use cases for exploring IBM Bob's AI-
 - Best practices and lessons learned
 - Sample projects and proof of concepts (PoCs)
 
+## Repository Structure
+
+```text
+ibm-bob-labs/
+├── docs/                    # Documentation, guides, and best practices
+├── prompts/                 # Reusable IBM Bob prompts
+├── examples/                # Feature demonstrations and labs
+│   ├── ask-mode/
+│   ├── plan-mode/
+│   └── agent-mode/
+├── use-cases/               # Real-world scenarios and practical applications
+│   ├── troubleshooting/
+│   ├── performance-tuning/
+│   └── code-refactoring/
+├── languages/               # Language-specific examples and experiments
+│   ├── java/
+│   └── python/
+└── blog-posts/              # Source material and supporting content for ebasso.net blog articles
+```
+
 ## Goal
 
 This repository documents my journey learning and experimenting with IBM Bob, sharing practical examples, findings, and real-world development experiences.
