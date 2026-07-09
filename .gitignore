@@ -1,0 +1,5 @@
+### My git ignore ###
+# VS Code
+.vscode/
+#Testing Output folder
+.output/
